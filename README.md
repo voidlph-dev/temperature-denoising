@@ -1,0 +1,2 @@
+# temperature-denoising
+基于期望与方差的温度采集信号滑动平均降噪教学演示
